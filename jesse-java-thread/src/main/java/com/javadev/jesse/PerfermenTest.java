@@ -2,6 +2,7 @@ package com.javadev.jesse;
 
 /**
  * 多线程并发计算和单线程计算性能对比
+ * 只有在一定的量值，多线程才可能比单线程快
  */
 public class PerfermenTest {
 
